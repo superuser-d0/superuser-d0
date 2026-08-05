@@ -44,9 +44,9 @@
   <tr>
     <td width="140" align="center">
       <img
-        src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"
+        src="https://raw.githubusercontent.com/superuser-d0/archlence/main/assets/icon.png"
         width="70"
-        alt="Python logo"
+        alt="Archlence logo"
       />
     </td>
     <td>
