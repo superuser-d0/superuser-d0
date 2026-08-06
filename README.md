@@ -1,19 +1,18 @@
 <h1 align="center">Hi, I'm Cem 👋</h1>
 
-<h3 align="center">Mathematics & Computer Science Student · Software Developer</h3>
+<h3 align="center">
+  Mathematics & Computer Science Student · Building Local-First Software · Growing Toward Full-Stack Development
+</h3>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7B924&center=true&vCenter=true&width=760&lines=BSc+Student+in+Mathematics;Associate+Degree+Student+in+Computer+Science;Building+Desktop+Applications+with+Python+and+Kivy;Linux+%2F+CachyOS+%2F+KDE+Plasma+User;Open-Source+Enthusiast+%F0%9F%9A%80"
-    alt="Typing introduction"
-  />
+  I build privacy-conscious desktop applications with Python while expanding my skills across frontend, backend, databases, and modern web development.
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/superuser.d0/">
+  <a href="https://github.com/superuser-d0/archlence">
     <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
+      src="https://img.shields.io/badge/Featured_Project-Archlence-F7B924?style=for-the-badge&logo=github&logoColor=black"
+      alt="Archlence"
     />
   </a>
   <a href="https://www.youtube.com/channel/UCZ5prMIm2jaertl7gSgGY_w">
@@ -22,47 +21,92 @@
       alt="YouTube"
     />
   </a>
+  <a href="https://www.instagram.com/superuser.d0/">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
 </p>
 
 ---
 
-## 👨‍🎓 About Me
+## About Me
 
-- 🎓 I am pursuing a **BSc in Mathematics** alongside an **Associate Degree in Computer Science**.
-- 🧮 I enjoy applying mathematical thinking to software architecture, algorithms, and problem-solving.
-- 🐍 **Python** is my primary programming language.
-- 🖥️ I work with **MATLAB** for numerical computing and **Microsoft SQL Server** for database development.
-- 🐧 My daily environment is **CachyOS**, an Arch-based Linux distribution, with **KDE Plasma**.
-- 🌱 I am currently improving my skills in software engineering, application architecture, automated testing, and open-source development.
-- 👾 Pac-Man is my personal symbol — and he is waiting for my contribution graph below.
+* 🎓 I am pursuing a **BSc in Mathematics** alongside an **Associate Degree in Computer Science**.
+* 🧮 I enjoy applying mathematical thinking to software architecture, algorithms, data integrity, and problem-solving.
+* 🐍 I primarily work with **Python**, especially for desktop application and backend-oriented development.
+* 🖥️ I am building experience through a real application involving testing, packaging, database migrations, performance, security, and release management.
+* 🌐 I am gradually expanding into **full-stack development**, including web fundamentals, APIs, databases, frontend interfaces, and backend architecture.
+* 🐧 My daily environment is **CachyOS**, an Arch-based Linux distribution, with **KDE Plasma**.
+* 🌱 I am interested in local-first software, privacy, open-source development, and dependable user-facing systems.
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 <table>
   <tr>
     <td width="140" align="center">
-      <img
-        src="https://raw.githubusercontent.com/superuser-d0/archlence/main/assets/icon.png"
-        width="70"
-        alt="Archlence logo"
-      />
+      <a href="https://github.com/superuser-d0/archlence">
+        <img
+          src="https://raw.githubusercontent.com/superuser-d0/archlence/main/assets/icon.png"
+          width="82"
+          alt="Archlence logo"
+        />
+      </a>
     </td>
     <td>
 
-### 📊 [Archlence](https://github.com/superuser-d0/archlence)
+### [Archlence](https://github.com/superuser-d0/archlence)
 
 A privacy-focused, **local-first personal finance and portfolio management desktop application**.
 
-Archlence is built with **Python** and **Kivy**. It is designed around local data ownership, a reliable ledger architecture, and an intelligent caching layer.
+Archlence brings accounts, transactions, budgets, subscriptions, debts, credit cards, and investments into one desktop workspace.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-202020?style=flat-square&logo=python&logoColor=white)
-![Desktop Application](https://img.shields.io/badge/Desktop-Application-555555?style=flat-square)
+The project focuses on:
+
+* local data ownership;
+* financial and ledger integrity;
+* encrypted sensitive fields;
+* automated regression testing;
+* Windows and Linux packaging;
+* maintainable application architecture;
+* transparent documentation of limitations and technical debt.
+
+<p>
+  <a href="https://github.com/superuser-d0/archlence">
+    <img
+      src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"
+      alt="Repository"
+    />
+  </a>
+  <a href="https://github.com/superuser-d0/archlence/releases/latest">
+    <img
+      src="https://img.shields.io/github/v/release/superuser-d0/archlence?include_prereleases&style=flat-square&label=release"
+      alt="Latest Archlence release"
+    />
+  </a>
+  <a href="https://github.com/superuser-d0/archlence/blob/main/README.md">
+    <img
+      src="https://img.shields.io/badge/Documentation-Read-3776AB?style=flat-square"
+      alt="Documentation"
+    />
+  </a>
+  <a href="https://github.com/superuser-d0/archlence/issues">
+    <img
+      src="https://img.shields.io/badge/Issues-Contribute-2EA44F?style=flat-square"
+      alt="Issues"
+    />
+  </a>
+</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-202020?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![Desktop](https://img.shields.io/badge/Desktop-Windows%20%7C%20Linux-555555?style=flat-square)
 ![Local First](https://img.shields.io/badge/Local--First-2EA44F?style=flat-square)
-![Privacy Focused](https://img.shields.io/badge/Privacy-Focused-8A2BE2?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open-Source-F7B924?style=flat-square&logo=opensourceinitiative&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open_Source-MIT-F7B924?style=flat-square\&logo=opensourceinitiative\&logoColor=black)
 
   </td>
   </tr>
@@ -70,107 +114,103 @@ Archlence is built with **Python** and **Kivy**. It is designed around local dat
 
 ---
 
-## 🧰 Technologies & Tools
+## Current Focus
 
-### Languages & Scientific Computing
+* Improving Archlence through stronger testing, performance work, and cross-platform validation.
+* Strengthening financial data integrity, recovery workflows, and application reliability.
+* Learning **full-stack development** from fundamentals, with an emphasis on understanding how frontend, backend, APIs, databases, authentication, testing, and deployment work together.
+* Deepening my understanding of software architecture, data structures, algorithms, and system design.
+* Building small web projects alongside desktop development to turn theoretical knowledge into practical experience.
+* Contributing to and learning from the open-source ecosystem.
+
+---
+
+## Toolbox
+
+| Area                   | Technologies and topics                                                              |
+| ---------------------- | ------------------------------------------------------------------------------------ |
+| Primary language       | Python                                                                               |
+| Desktop development    | Kivy, KivyMD                                                                         |
+| Data                   | SQLite, Microsoft SQL Server, SQL                                                    |
+| Scientific computing   | MATLAB                                                                               |
+| Testing and automation | `unittest`, regression testing, GitHub Actions                                       |
+| Version control        | Git, GitHub                                                                          |
+| Environment            | Linux, CachyOS, Arch Linux, KDE Plasma                                               |
+| Currently learning     | HTML, CSS, JavaScript, web APIs, backend development, authentication, and deployment |
 
 <p>
   <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
     alt="Python"
   />
   <img
-    src="https://img.shields.io/badge/MATLAB-E86D13?style=for-the-badge&logo=mathworks&logoColor=white"
-    alt="MATLAB"
-  />
-</p>
-
-### Application & Database Development
-
-<p>
-  <img
-    src="https://img.shields.io/badge/Kivy-202020?style=for-the-badge&logo=python&logoColor=white"
+    src="https://img.shields.io/badge/Kivy-202020?style=flat-square"
     alt="Kivy"
   />
   <img
-    src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+    src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"
+    alt="SQLite"
+  />
+  <img
+    src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"
     alt="Microsoft SQL Server"
   />
-</p>
-
-### Environment & Tooling
-
-<p>
   <img
-    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+    src="https://img.shields.io/badge/MATLAB-E86D13?style=flat-square"
+    alt="MATLAB"
+  />
+  <img
+    src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"
     alt="Linux"
   />
   <img
-    src="https://img.shields.io/badge/CachyOS-151515?style=for-the-badge&logo=archlinux&logoColor=white"
-    alt="CachyOS"
-  />
-  <img
-    src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"
-    alt="Arch Linux"
-  />
-  <img
-    src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white"
-    alt="KDE Plasma"
-  />
-  <img
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"
     alt="Git"
   />
   <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-  <img
-    src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"
+    src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"
     alt="GitHub Actions"
   />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## Learning Path
 
-- Improving **Archlence** through stronger testing, performance optimization, and cross-platform stability.
-- Deepening my knowledge of **software architecture**, **data structures**, and **algorithmic problem-solving**.
-- Building reliable desktop software with a focus on **privacy**, **maintainability**, and **user experience**.
-- Contributing to and learning from the **open-source ecosystem**.
+```text
+Strong programming fundamentals
+        ↓
+Backend development and APIs
+        ↓
+Relational databases and data modeling
+        ↓
+Frontend fundamentals and user interfaces
+        ↓
+Authentication, testing, and application security
+        ↓
+Deployment, observability, and system design
+        ↓
+Full-stack software engineering
+```
 
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=superuser-d0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"
-    alt="Cem's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=superuser-d0&layout=compact&theme=radical&hide_border=true"
-    alt="Cem's most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=superuser-d0&theme=radical&hide_border=true"
-    alt="Cem's GitHub contribution streak"
-  />
-</p>
+I am not interested in learning frameworks only at the surface level. My goal is to understand the fundamentals behind the tools and build software that remains maintainable as it grows.
 
 ---
 
-## 👾 Pac-Man Contribution Graph
+## What I Value
 
-<p align="center">
-  <i>Pac-Man turns my GitHub contribution history into a small arcade adventure.</i>
-</p>
+```text
+Correctness over shortcuts
+Clarity over unnecessary complexity
+Fundamentals over framework memorization
+User ownership over data collection
+Measured improvement over feature accumulation
+Open development over hidden limitations
+```
+
+---
+
+## Pac-Man Contribution Graph
 
 <p align="center">
   <picture data-importer="pacman">
@@ -183,9 +223,9 @@ Archlence is built with **Python** and **Kivy**. It is designed around local dat
       srcset="https://raw.githubusercontent.com/superuser-d0/superuser-d0/pacman-output/pacman-contribution-graph.svg?game=pacman"
     />
     <img
-      alt="Pac-Man contribution graph"
       src="https://raw.githubusercontent.com/superuser-d0/superuser-d0/pacman-output/pacman-contribution-graph.svg?game=pacman"
       width="100%"
+      alt="Pac-Man contribution graph"
     />
   </picture>
 </p>
@@ -193,5 +233,5 @@ Archlence is built with **Python** and **Kivy**. It is designed around local dat
 ---
 
 <p align="center">
-  <i>“Code without mathematics is a journey without a map.”</i>
+  <i>I like building software where correctness, clarity, and user ownership matter.</i>
 </p>
