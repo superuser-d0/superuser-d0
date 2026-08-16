@@ -21,12 +21,6 @@
       alt="YouTube"
     />
   </a>
-  <a href="https://www.instagram.com/superuser.d0/">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
 </p>
 
 ---
@@ -38,7 +32,7 @@
 * 🐍 I primarily work with **Python**, especially for desktop application and backend-oriented development.
 * 🖥️ I am building experience through a real application involving testing, packaging, database migrations, performance, security, and release management.
 * 🌐 I am gradually expanding into **full-stack development**, including web fundamentals, APIs, databases, frontend interfaces, and backend architecture.
-* 🐧 My daily environment is **CachyOS**, an Arch-based Linux distribution, with **KDE Plasma**.
+* 🪟 My daily environment is **Windows 11**.
 * 🌱 I am interested in local-first software, privacy, open-source development, and dependable user-facing systems.
 
 ---
@@ -101,12 +95,12 @@ The project focuses on:
   </a>
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-202020?style=flat-square)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Desktop](https://img.shields.io/badge/Desktop-Windows%20%7C%20Linux-555555?style=flat-square)
 ![Local First](https://img.shields.io/badge/Local--First-2EA44F?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open_Source-MIT-F7B924?style=flat-square\&logo=opensourceinitiative\&logoColor=black)
+![Open Source](https://img.shields.io/badge/Open_Source-MIT-F7B924?style=flat-square&logo=opensourceinitiative&logoColor=black)
 
   </td>
   </tr>
@@ -135,7 +129,7 @@ The project focuses on:
 | Scientific computing   | MATLAB                                                                               |
 | Testing and automation | `unittest`, regression testing, GitHub Actions                                       |
 | Version control        | Git, GitHub                                                                          |
-| Environment            | Linux, CachyOS, Arch Linux, KDE Plasma                                               |
+| Environment            | Windows 11, CachyOS, Linux                                                           |
 | Currently learning     | HTML, CSS, JavaScript, web APIs, backend development, authentication, and deployment |
 
 <p>
@@ -158,6 +152,14 @@ The project focuses on:
   <img
     src="https://img.shields.io/badge/MATLAB-E86D13?style=flat-square"
     alt="MATLAB"
+  />
+  <img
+    src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white"
+    alt="Windows 11"
+  />
+  <img
+    src="https://img.shields.io/badge/CachyOS-00A4DC?style=flat-square&logo=archlinux&logoColor=white"
+    alt="CachyOS"
   />
   <img
     src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"
