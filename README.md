@@ -15,7 +15,7 @@
       alt="Archlence"
     />
   </a>
-  <a href="https://www.youtube.com/channel/UCZ5prMIm2jaertl7gSgGY_w">
+  <a href="https://www.youtube.com/@superus3r_do">
     <img
       src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
       alt="YouTube"
