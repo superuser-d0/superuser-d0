@@ -110,26 +110,12 @@ The project focuses on:
 
 ## Current Focus
 
-* Improving Archlence through stronger testing, performance work, and cross-platform validation (Windows packaging and smoke tests).
+* Improving Archlence through stronger testing, performance work, and cross-platform validation.
 * Strengthening financial data integrity, recovery workflows, and application reliability.
-* Working through **CS50P (Harvard's Introduction to Programming with Python)** to solidify fundamentals from the ground up.
 * Learning **full-stack development** from fundamentals, with an emphasis on understanding how frontend, backend, APIs, databases, authentication, testing, and deployment work together.
 * Deepening my understanding of software architecture, data structures, algorithms, and system design.
 * Building small web projects alongside desktop development to turn theoretical knowledge into practical experience.
 * Contributing to and learning from the open-source ecosystem.
-
----
-
-## Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-94.2%25-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart 94.2%" />
-  <img src="https://img.shields.io/badge/C%2B%2B-2.2%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ 2.2%" />
-  <img src="https://img.shields.io/badge/CMake-1.6%25-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake 1.6%" />
-  <img src="https://img.shields.io/badge/Python-1.4%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 1.4%" />
-  <img src="https://img.shields.io/badge/Swift-0.2%25-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift 0.2%" />
-  <img src="https://img.shields.io/badge/Shell-0.2%25-89E051?style=flat-square&logo=gnubash&logoColor=black" alt="Shell 0.2%" />
-</p>
 
 ---
 
@@ -144,7 +130,7 @@ The project focuses on:
 | Testing and automation | `unittest`, regression testing, GitHub Actions                                       |
 | Version control        | Git, GitHub                                                                          |
 | Environment            | Windows 11, CachyOS, Linux                                                           |
-| Currently learning     | CS50P (Python fundamentals), HTML, CSS, JavaScript, web APIs, backend development, authentication, and deployment |
+| Currently learning     | HTML, CSS, JavaScript, web APIs, backend development, authentication, and deployment |
 
 <p>
   <img
@@ -166,10 +152,6 @@ The project focuses on:
   <img
     src="https://img.shields.io/badge/MATLAB-E86D13?style=flat-square"
     alt="MATLAB"
-  />
-  <img
-    src="https://img.shields.io/badge/CS50P-A51C30?style=flat-square"
-    alt="CS50P"
   />
   <img
     src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white"
