@@ -120,6 +120,19 @@ The project focuses on:
 
 ---
 
+## Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-94.2%25-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart 94.2%" />
+  <img src="https://img.shields.io/badge/C%2B%2B-2.2%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ 2.2%" />
+  <img src="https://img.shields.io/badge/CMake-1.6%25-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake 1.6%" />
+  <img src="https://img.shields.io/badge/Python-1.4%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 1.4%" />
+  <img src="https://img.shields.io/badge/Swift-0.2%25-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift 0.2%" />
+  <img src="https://img.shields.io/badge/Shell-0.2%25-89E051?style=flat-square&logo=gnubash&logoColor=black" alt="Shell 0.2%" />
+</p>
+
+---
+
 ## Toolbox
 
 | Area                   | Technologies and topics                                                              |
