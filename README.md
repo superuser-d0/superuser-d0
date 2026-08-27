@@ -110,8 +110,9 @@ The project focuses on:
 
 ## Current Focus
 
-* Improving Archlence through stronger testing, performance work, and cross-platform validation.
+* Improving Archlence through stronger testing, performance work, and cross-platform validation (Windows packaging and smoke tests).
 * Strengthening financial data integrity, recovery workflows, and application reliability.
+* Working through **CS50P (Harvard's Introduction to Programming with Python)** to solidify fundamentals from the ground up.
 * Learning **full-stack development** from fundamentals, with an emphasis on understanding how frontend, backend, APIs, databases, authentication, testing, and deployment work together.
 * Deepening my understanding of software architecture, data structures, algorithms, and system design.
 * Building small web projects alongside desktop development to turn theoretical knowledge into practical experience.
@@ -130,7 +131,7 @@ The project focuses on:
 | Testing and automation | `unittest`, regression testing, GitHub Actions                                       |
 | Version control        | Git, GitHub                                                                          |
 | Environment            | Windows 11, CachyOS, Linux                                                           |
-| Currently learning     | HTML, CSS, JavaScript, web APIs, backend development, authentication, and deployment |
+| Currently learning     | CS50P (Python fundamentals), HTML, CSS, JavaScript, web APIs, backend development, authentication, and deployment |
 
 <p>
   <img
@@ -152,6 +153,10 @@ The project focuses on:
   <img
     src="https://img.shields.io/badge/MATLAB-E86D13?style=flat-square"
     alt="MATLAB"
+  />
+  <img
+    src="https://img.shields.io/badge/CS50P-A51C30?style=flat-square"
+    alt="CS50P"
   />
   <img
     src="https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white"
