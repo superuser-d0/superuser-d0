@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360">
+  <!--
+    A profile-page mark for Archlence Mobile: the desktop logo's geometry
+    exactly, on a green ground instead of the indigo one.
+
+    This is a PRESENTATION asset for this README only, and it deliberately
+    disagrees with the app itself. `assets/icon/archlence_icon.svg` in the
+    archlence-mobile repository keeps the desktop's #5444E5 verbatim, with a
+    written reason: the two are one product with two clients, and a launcher
+    badge in a second colour would say otherwise. That decision stands. What
+    this file solves is a different problem — two rows of the same table
+    needing to be told apart at 82px.
+
+    #0B7C43 rather than the Android green #3DDC84. Against white the ground
+    has to carry the mark: #3DDC84 gives roughly 1.7:1 and the "A" dissolves
+    into it, while this green gives 6.2:1 — within a hair of the indigo's
+    6.3:1, so the two icons sit at the same visual weight side by side.
+
+    Geometry copied verbatim; see the mobile repo's icon for why the apex is
+    sharp, why the outer edges are concave, and why the mid-band overshoots
+    into the legs.
+  -->
+  <rect x="0" y="0" width="360" height="360" rx="80" fill="#0B7C43"/>
+  <path d="M180,56 Q218,168 294,302 L232,302 Q200,212 180,150 Q160,212 128,302 L66,302 Q142,168 180,56 Z" fill="#FFFFFF"/>
+  <path d="M138,228 Q180,240 222,228 L222,254 Q180,266 138,254 Z" fill="#FFFFFF"/>
+</svg>

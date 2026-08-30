@@ -116,9 +116,9 @@ The project focuses on:
     <td width="140" align="center">
       <a href="https://github.com/superuser-d0/archlence-mobile">
         <img
-          src="https://raw.githubusercontent.com/superuser-d0/archlence-mobile/main/docs/screenshots/home.png"
+          src="https://raw.githubusercontent.com/superuser-d0/superuser-d0/main/assets/archlence-mobile-icon.png"
           width="82"
-          alt="Archlence Mobile home screen"
+          alt="Archlence Mobile logo"
         />
       </a>
     </td>
