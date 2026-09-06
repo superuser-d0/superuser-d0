@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mehmet 👋</h1>
+<h1 align="center">Hi, I'm Superuser 👋</h1>
 
 <h3 align="center">
   Mathematics & Computer Science Student · Building Local-First Software · Growing Toward Full-Stack Development
