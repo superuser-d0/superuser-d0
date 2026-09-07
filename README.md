@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  I build privacy-conscious desktop and mobile applications — Python on the desktop, Flutter on Android — while expanding my skills across frontend, backend, databases, and modern web development.
+  I build privacy-conscious desktop and mobile applications — Python on the desktop, Flutter on Android, C# on Windows — while expanding my skills across frontend, backend, databases, and modern web development.
 </p>
 
 <p align="center">
@@ -19,6 +19,12 @@
     <img
       src="https://img.shields.io/badge/Android-Archlence_Mobile-3DDC84?style=for-the-badge&logo=android&logoColor=black"
       alt="Archlence Mobile"
+    />
+  </a>
+  <a href="https://github.com/superuser-d0/zapret-tr">
+    <img
+      src="https://img.shields.io/badge/Windows-ZapretTR-2b7489?style=for-the-badge&logo=windows11&logoColor=white"
+      alt="ZapretTR"
     />
   </a>
   <a href="https://www.youtube.com/@superus3r_do">
@@ -172,6 +178,65 @@ The project focuses on:
 
   </td>
   </tr>
+
+  <tr>
+    <td width="140" align="center">
+      <a href="https://github.com/superuser-d0/zapret-tr">
+        <h1>🛡️</h1>
+      </a>
+    </td>
+    <td>
+
+### [ZapretTR](https://github.com/superuser-d0/zapret-tr) — Windows
+
+A Windows front-end for [zapret](https://github.com/bol-van/zapret)'s `winws` engine that **finds the working anti-DPI parameters for your own connection**, instead of asking you to paste a command line you cannot evaluate.
+
+Upstream, the only way to find a working strategy is a bash script that tries desync method × TTL × split position × fooling one at a time; a full sweep takes 10–40 minutes. ZapretTR narrows the search by ordering it — the candidates already proven on your ISP go first — and measures each one against real connections.
+
+The project focuses on:
+
+* **measurement over assumption** — a candidate is only marked `verified` after the same command passes 3/3 across three independent runs on a real line;
+* saying what is *not* known: every candidate carries its provenance, and the interface shows an "unverified" badge rather than implying confidence it does not have;
+* never touching what already works — an untested strategy is not applied to traffic that is fine, because doing so was measured to break a working connection;
+* leaving the machine as it was found: the packet driver is unloaded and the system DNS restored on every exit path, including the ones users actually take;
+* being run the way a user runs it — the bugs that mattered most were only visible after packaging, installing, and clicking the buttons.
+
+<p>
+  <a href="https://github.com/superuser-d0/zapret-tr">
+    <img
+      src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"
+      alt="Repository"
+    />
+  </a>
+  <a href="https://github.com/superuser-d0/zapret-tr/releases/latest">
+    <img
+      src="https://img.shields.io/github/v/release/superuser-d0/zapret-tr?style=flat-square&label=release"
+      alt="Latest ZapretTR release"
+    />
+  </a>
+  <a href="https://github.com/superuser-d0/zapret-tr/blob/main/CHANGELOG.md">
+    <img
+      src="https://img.shields.io/badge/Changelog-Read-2b7489?style=flat-square"
+      alt="Changelog"
+    />
+  </a>
+  <a href="https://github.com/superuser-d0/zapret-tr/issues">
+    <img
+      src="https://img.shields.io/badge/Field%20testers-Wanted-2EA44F?style=flat-square"
+      alt="Field testers wanted"
+    />
+  </a>
+</p>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Inno Setup](https://img.shields.io/badge/Inno_Setup-264DE4?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-F7B924?style=flat-square&logo=opensourceinitiative&logoColor=black)
+
+  </td>
+  </tr>
 </table>
 
 ---
@@ -179,6 +244,7 @@ The project focuses on:
 ## Current Focus
 
 * Taking **Archlence Mobile** the last stretch to the Play Store: privacy policy, Data Safety form, and an accessibility pass with a screen reader.
+* Growing **ZapretTR**'s field coverage: two of ten ISP profiles carry measured data, and the remaining eight need real lines — the gap is access, not code.
 * Keeping the desktop and Android apps in parity — one schema, one rounding policy, one backup format — and proving it with generated fixtures rather than hand-written expectations.
 * Improving Archlence through stronger testing, performance work, and cross-platform validation.
 * Strengthening financial data integrity, recovery workflows, and application reliability.
@@ -192,13 +258,14 @@ The project focuses on:
 
 | Area                   | Technologies and topics                                                              |
 | ---------------------- | ------------------------------------------------------------------------------------ |
-| Languages              | Python, Dart, SQL                                                                    |
-| Desktop development    | Kivy, KivyMD, PyInstaller packaging                                                  |
+| Languages              | Python, Dart, C#, SQL                                                                |
+| Desktop development    | Kivy, KivyMD, WPF (.NET 8), PyInstaller and Inno Setup packaging                     |
 | Mobile development     | Flutter, Android SDK, Gradle, Android Keystore                                       |
 | Data                   | SQLite, drift, Microsoft SQL Server                                                  |
 | Security               | AES-256-GCM field encryption, OS key stores, backup and recovery design              |
 | Scientific computing   | MATLAB                                                                               |
-| Testing and automation | `unittest`, `flutter_test`, integration tests on real devices, GitHub Actions        |
+| Networking             | DPI circumvention (zapret/winws), WinDivert, DNS-over-HTTPS, QUIC, STUN              |
+| Testing and automation | `unittest`, `flutter_test`, xUnit, integration tests on real devices, GitHub Actions |
 | Version control        | Git, GitHub                                                                          |
 | Environment            | CachyOS (Arch Linux), Windows 11                                                     |
 | Currently learning     | HTML, CSS, JavaScript, web APIs, backend development, authentication, and deployment |
@@ -207,6 +274,14 @@ The project focuses on:
   <img
     src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
     alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"
+    alt="C#"
+  />
+  <img
+    src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white"
+    alt=".NET 8"
   />
   <img
     src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"
@@ -262,7 +337,7 @@ The project focuses on:
 
 ## How I Work
 
-Both of my projects are the same argument made twice: a claim is worth as much
+My projects are the same argument made three times: a claim is worth as much
 as the way you can check it.
 
 ```text
@@ -270,7 +345,12 @@ Fixtures generated by the source of truth, not written by hand
 Tests that are deliberately broken to prove they can fail
 Limitations documented in the open, including the self-inflicted ones
 The app run on real hardware, because reading it is not the same as using it
+A result repeated before it is believed, and the one that failed 1/3 discarded
 ```
+
+The last line is ZapretTR's: a strategy is only called verified after the same
+command passes three independent runs. The habit paid for itself — one candidate
+looked fine once and was dropped when it did not survive the repeat.
 
 ---
 
