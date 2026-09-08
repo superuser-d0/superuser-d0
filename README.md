@@ -199,7 +199,9 @@ The project focuses on:
 * saying what is *not* known: every candidate carries its provenance, and the interface shows an "unverified" badge rather than implying confidence it does not have;
 * never touching what already works — an untested strategy is not applied to traffic that is fine, because doing so was measured to break a working connection;
 * leaving the machine as it was found: the packet driver is unloaded and the system DNS restored on every exit path, including the ones users actually take;
-* being run the way a user runs it — the bugs that mattered most were only visible after packaging, installing, and clicking the buttons.
+* being run the way a user runs it — the bugs that mattered most were only visible after packaging, installing, and clicking the buttons. That lesson is now automated: CI installs the package for real, registers the service, upgrades over it, and checks the service survived, because unit tests never saw that layer;
+* shipping the fix, not just writing it — the app checks for a new release, downloads it, verifies its SHA256 and installs it, so a correction actually reaches the people who reported the problem;
+* recording what did *not* work — a run where 49 candidates all failed is kept as data, together with the detail that the section users actually depend on was open the whole time.
 
 <p>
   <a href="https://github.com/superuser-d0/zapret-tr">
@@ -244,7 +246,7 @@ The project focuses on:
 ## Current Focus
 
 * Taking **Archlence Mobile** the last stretch to the Play Store: privacy policy, Data Safety form, and an accessibility pass with a screen reader.
-* Growing **ZapretTR**'s field coverage: two of ten ISP profiles carry measured data, and the remaining eight need real lines — the gap is access, not code.
+* Growing **ZapretTR**'s field coverage: two of ten ISP profiles carry measured data (25 verified candidates), and the remaining eight need real lines — the gap is access, not code.
 * Keeping the desktop and Android apps in parity — one schema, one rounding policy, one backup format — and proving it with generated fixtures rather than hand-written expectations.
 * Improving Archlence through stronger testing, performance work, and cross-platform validation.
 * Strengthening financial data integrity, recovery workflows, and application reliability.
