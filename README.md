@@ -61,3 +61,25 @@ Limitations documented in the open
 The app run on real hardware before it ships
 A result repeated before it is believed
 ```
+
+---
+
+## Pac-Man Contribution Graph
+
+<p align="center">
+  <picture data-importer="pacman">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/superuser-d0/superuser-d0/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/superuser-d0/superuser-d0/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    />
+    <img
+      src="https://raw.githubusercontent.com/superuser-d0/superuser-d0/pacman-output/pacman-contribution-graph.svg?game=pacman"
+      width="100%"
+      alt="Pac-Man contribution graph"
+    />
+  </picture>
+</p>
