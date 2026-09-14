@@ -175,7 +175,11 @@ The project focuses on:
   <tr>
     <td width="140" align="center">
       <a href="https://github.com/superuser-d0/zapret-tr">
-        <h1>🛡️</h1>
+        <img
+          src="https://raw.githubusercontent.com/superuser-d0/zapret-tr/main/docs/ikon.png"
+          width="82"
+          alt="ZapretTR logo"
+        />
       </a>
     </td>
     <td>
